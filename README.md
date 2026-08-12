@@ -1,6 +1,6 @@
 # Hi, I'm Ayoub 👋
 
-Frontend & Full-Stack Developer from Algeria 🇩🇿
+Frontend Developer from Algeria 🇩🇿
 
 Currently pursuing a Master's degree in Computer Science and passionate about building modern web applications, SaaS products, and AI-powered developer tools.
 
